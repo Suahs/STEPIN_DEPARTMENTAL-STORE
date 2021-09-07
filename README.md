@@ -1,1 +1,1 @@
-my first mini project is based on sorting of array
+# my first mini project is based on sorting of array
