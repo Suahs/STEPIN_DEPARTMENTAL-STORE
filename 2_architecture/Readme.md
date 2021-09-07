@@ -12,4 +12,5 @@
     ![merge sort](https://user-images.githubusercontent.com/84457982/132366453-134f820e-795a-429d-a329-238f94efad65.png)
 # Quick sort diagram
     ![quick sort](https://user-images.githubusercontent.com/84457982/132366601-0618772b-b742-44b4-97c4-7f8aec14b669.png)
+![quick sort](https://user-images.githubusercontent.com/84457982/132366601-0618772b-b742-44b4-97c4-7f8aec14b669.png)
 
