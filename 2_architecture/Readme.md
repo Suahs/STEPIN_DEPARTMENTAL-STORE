@@ -1,2 +1,0 @@
-# high level design
-https://github.com/260230/Mini-Project/blob/main/2_Design/High%20level%20Architecture%20design.png?raw=true
