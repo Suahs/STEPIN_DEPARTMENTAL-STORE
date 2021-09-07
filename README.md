@@ -1,2 +1,1 @@
-# STEPIN_DEPARTMENTAL-STORE
-My first mini project is based on 
+my first mini project is based on sorting of array
