@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  printf("welcome .\n********* its working*******\n");
+  printf("welcome TO GITHUB\n");
+  printf("\n********* its working*******\n");
   return 0;
 }
